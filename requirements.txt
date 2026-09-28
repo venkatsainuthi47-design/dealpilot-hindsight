@@ -1,0 +1,3 @@
+hindsight-client
+groq
+python-dotenv
